@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\..\Mikroelektronika\mikroC PRO for PIC\Examples\Development Systems\EasyPIC v8\Lcd\Lcd.mcppi
+Project1=..\Pic16F887KeyPad_Lib.mcppi
+Project2=..\Pic16f887\Pic16F887KeyPad_Lib.mcppi
+Project3=DoorLockPic16F887.mcppi
+[ActiveProject]
+Index=3
